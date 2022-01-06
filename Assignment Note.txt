@@ -1,0 +1,14 @@
+Assignment-01 Reqoerments
+
+What to do?:
+Submit Your repository link.
+Submit Your website link.
+
+Main Tasks:
+01. Create a website Like "Mission 2022" Website.
+02. Add single part like this website.
+03. Clean HTML, CSS Code.
+
+Marks Syestem:
+Main Marks: 50
+Bonus Marks: 10
