@@ -102,6 +102,7 @@ Section-01: Header Area Start here */
   border: none;
   outline: none;
   border-radius: 10px;
+  overflow: hidden;
 }
 .mission-item img {
   width: 140px;
